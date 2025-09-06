@@ -1,25 +1,22 @@
-# PF-Lab03-25K-0509.
-Persoanl Description &amp; Programming Interests
-# About Me
+# 👋 Welcome to My Repository
 
-- **Name:** [ Mahad Saqib ]  
-- **Roll Number:** [ 25K-0509 ]  
-- **Degree Program:** [ BSCS ] [ FAST-NUCES Karachi ]  
-
-## Programming Interests
-- Learning the fundamentals of programming in **C/C++**  
-- Exploring **Problem-Solving Techniques and Algorithms**  
-- Working with **data structures**  
-- Understanding **Git & GitHub for collaboration**  
-- Building small projects to practice programming skills
-
-## Goals
-- To a Game Designer & Developer
-- Create a Game praised by the world
-- Make a lot of money
-## Hobbies
-- Playing Single-player games
+Hello! My name is **_Mahad Saqib_**, and this repo is part of my Programming Fundamentals Lab.  
 
 ---
 
-✨ *It is my belief that consistent practice and curiosity are the keys to becoming a great programmer!* ✨
+## 🔹 My Goals in Programming
+1. Learn the basics of **C language**  
+2. Understand **Data Structures**  
+3. Practice **Problem Solving**  
+4. Explore **Git & GitHub** for collaboration  
+
+---
+
+## 🔹 My Hobbies
+- Playing Chess  
+- Playing Single-player games 
+- Exploring New Tech  
+
+---
+
+✨ I believe that **_consistent practice_** is the key to becoming a great programmer! ✨
